@@ -23,7 +23,7 @@ I'm Om Gupta, a undergraduate with a passion for Web Devlopment and Designing. T
 
 ## Contact
 
-Feel free to reach out to me at [my mail](mailto:om.gupta@iitgn.ac.in) for any inquiries or collaboration opportunities. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/hi-omgupta) and [GitHub](https://github.com/hiomgupta).
+Feel free to reach out to me at [Email](mailto:om.gupta@iitgn.ac.in) for any inquiries or collaboration opportunities. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/hi-omgupta) and [GitHub](https://github.com/hiomgupta).
 
 <!-- ## License
 
