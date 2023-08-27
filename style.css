@@ -432,6 +432,9 @@ footer {
   margin: 0 1rem;
 }
 
-footer p {
+footer h5 {
   text-align: center;
+  /* text-decoration: lightblue; */
+  font-style:italic;
+  font-weight: 100;
 }
