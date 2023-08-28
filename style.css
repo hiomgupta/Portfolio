@@ -60,7 +60,17 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+
 }
+.logo img {
+  /* display: block; */
+  max-width: 30px;
+  margin-bottom: 0;
+  height: auto;
+  margin: auto;
+  margin-right: 10px;
+}
+
 
 .logo:hover {
   cursor: default;
