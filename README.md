@@ -12,7 +12,7 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 
 ## About
 
-I'm Om Gupta, a undergraduate with a passion for Web Devlopment and Designing. This portfolio website serves as a window into my journey, showcasing my projects and achievements.
+I'm Om Gupta, an undergraduate passionate about Web Development and design. This portfolio website provides a window into my journey, showcasing my projects and achievements.
 
 ## Skills
 
