@@ -408,11 +408,7 @@ article .icon {
   flex-direction: column;
   height: 70vh;
 }
-.Note{
-  text-align: center;
-  align-items: center;
 
-}
 .contact-info-upper-container {
   display: flex;
   justify-content: center;
